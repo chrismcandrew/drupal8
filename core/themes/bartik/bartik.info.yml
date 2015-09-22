@@ -12,13 +12,11 @@ libraries:
 ckeditor_stylesheets:
   - css/base/elements.css
   - css/components/captions.css
-  - css/components/content.css
   - css/components/table.css
 regions:
   header: Header
   primary_menu: 'Primary menu'
   secondary_menu: 'Secondary menu'
-  help: Help
   page_top: 'Page top'
   page_bottom: 'Page bottom'
   highlighted: Highlighted
@@ -37,8 +35,8 @@ regions:
   footer_fifth: 'Footer fifth'
 
 
-# Information added by Drupal.org packaging script on 2015-08-03
-version: '8.0.0-beta14'
+# Information added by Drupal.org packaging script on 2015-09-04
+version: '8.0.0-beta15'
 core: '8.x'
 project: 'drupal'
-datestamp: 1438593763
+datestamp: 1441357641
